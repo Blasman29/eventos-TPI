@@ -15,6 +15,9 @@ public class Resenia {
         this.comentario = comentario;
     }
 
+    public Resenia(Participante participanteReseña, EventoGastronómico eventoReseña, int calificacion, String comentario) {
+    }
+
     // Getters y Setters
     public int getIdentificador() {
         return identificador;

@@ -91,4 +91,7 @@ public class EventoGastronómico {
         this.chefACargo = chefACargo;
     }
 
+    public void agregarResenia(Resenia reseña) {
+
+    }
 }
